@@ -1,0 +1,12 @@
+CPAN_AUTHOR=ingy
+inherit perl
+
+NAME="perl-Inline-C"
+VERSION=0.75
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="C support for Perl Inline"
+DESCRIPTION="Inline::C is a module that allows you to write Perl subroutines
+in C."
+
+ARCH=noarch
